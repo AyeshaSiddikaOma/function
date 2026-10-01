@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 90" width="100%" height="100%">
+  <!-- Vegetable Patty Base Color -->
+  <path d="M 25 45 C 22 25, 35 15, 60 18 C 90 12, 130 14, 155 18 C 178 15, 182 30, 178 50 C 182 70, 165 80, 140 77 C 105 83, 75 80, 45 77 C 22 78, 20 60, 25 45 Z" fill="#84A96C" stroke="#6C8F57" stroke-width="4" stroke-linejoin="round"/>
+  
+  <!-- Visible Vegetable Pieces (Texture) -->
+  <!-- Corn -->
+  <circle cx="60" cy="40" r="5" fill="#F4D35E"/>
+  <circle cx="130" cy="35" r="5" fill="#F4D35E"/>
+  <circle cx="100" cy="65" r="4" fill="#F4D35E"/>
+  <!-- Carrots -->
+  <rect x="45" y="55" width="12" height="6" rx="2" fill="#E07A5F" transform="rotate(20 50 58)"/>
+  <rect x="140" y="50" width="10" height="5" rx="1.5" fill="#E07A5F" transform="rotate(-30 145 52)"/>
+  <rect x="80" y="30" width="14" height="7" rx="2" fill="#E07A5F" transform="rotate(-10 87 33)"/>
+  <!-- Spinach/Greens -->
+  <path d="M 70 48 C 65 50, 65 55, 70 58 C 75 60, 80 58, 78 53 Z" fill="#588157"/>
+  <path d="M 120 60 C 115 62, 115 67, 120 70 C 125 72, 130 70, 128 65 Z" fill="#588157"/>
+  <!-- Peas/Herbs -->
+  <circle cx="90" cy="50" r="3" fill="#6C8F57"/>
+  <circle cx="155" cy="60" r="3" fill="#6C8F57"/>
+  <circle cx="40" cy="30" r="2.5" fill="#6C8F57"/>
+</svg>

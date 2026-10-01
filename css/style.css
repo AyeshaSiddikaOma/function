@@ -1,0 +1,23 @@
+.container{
+    width:1170px;
+    margin:auto;
+}
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttons{
+    margin-left: 100px;
+}
+
+.burger{
+    display: flex;
+    flex-direction: column;
+}
+.pic{
+    border-radius: 500px;
+}
+body{
+    background-color: black;
+}
